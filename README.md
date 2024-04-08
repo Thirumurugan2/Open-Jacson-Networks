@@ -1,4 +1,4 @@
-![image](https://github.com/Thirumurugan2/Open-Jacson-Networks/assets/162677168/572b04e5-a56e-4188-80b1-9a10bc31449f)![image](https://github.com/Thirumurugan2/Open-Jacson-Networks/assets/162677168/9ce3435d-2905-40f6-8d58-4b2372ef99b3)![image](https://github.com/Thirumurugan2/Open-Jacson-Networks/assets/162677168/9f91504a-e3b7-4e10-948b-61be02d70e83)# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the each conveyor of (c) waiting time of each material in the system (d) waiting time of each material in each conveyor, if the arrival  of materials follow Poisson process with the mean interval time 12 seconds, service time of  lathe machine in series follow exponential distribution  with service time  1 second, 1.5 seconds and 1.3 seconds respectively and average service time of robot is 7 seconds.
